@@ -9,3 +9,6 @@ saya belajar web3 dari HP untuk bisa bekerja di dunia web3 dan berkembang di sin
 - Mulai belajar di CryptoZombies
 - Belajar struktur dasar smart contract
 - Belajar bikin struct dan function di Solidity
+## Hari 3
+- Memulai Lesson 1 di CryptoZombies: Making the Zombie Factory
+- Belajar tentang struct, array, dan function di Solidity
